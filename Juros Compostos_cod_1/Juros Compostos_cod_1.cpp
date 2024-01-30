@@ -21,7 +21,6 @@ double ConvertePorcentagem() {
     }
     else {
         double porcentagem = ValorPorcentagem / Porcento;
-        //cout << "\n\t" << porcentagem * 100 << "%";
         return porcentagem;
     }
 }
