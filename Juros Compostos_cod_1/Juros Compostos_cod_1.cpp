@@ -61,7 +61,9 @@ int main() {
         cin >> SimNao;
         system("cls");
     }
-
+ 
     cout << "Encerrando....\n";
     return 0;
 }
+
+// código criado: Luís Henrique Nascimento belotti
