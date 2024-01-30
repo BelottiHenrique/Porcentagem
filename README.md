@@ -1,2 +1,0 @@
-# Porcentagem
-Calculo de Porcentagem
