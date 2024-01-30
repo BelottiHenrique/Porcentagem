@@ -12,7 +12,7 @@ Tranforma o valor digitado em valor de porcento:
 double porcentagem = ValorPorcentagem / Porcento;
 X = Y / 100; 
 X = 5 / 100;
-X = 5%;
+X = 5%.
 
 #Formula 2
 Descobre o valor da porcentagem em cima do valor digita:
