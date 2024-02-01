@@ -15,7 +15,7 @@ X = 5 / 100;
 X = 5%;
 O resultado é 5%.
 
-#Formula 2:
+# Formula 2:
 Descobre o valor da porcentagem em cima do valor digita:
 double Result = porcentagem * valorReal;
 X = 5% * Y;
